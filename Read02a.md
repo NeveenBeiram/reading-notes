@@ -185,7 +185,10 @@ You can create a new paragraph by leaving a blank line between lines of text.
 Ignoring Markdown formatting
 You can tell GitHub to ignore (or escape) Markdown formatting by using \ before the Markdown character.
 
-`Let's rename \*our-new-project\* to \*our-old-project\*.`
+```
+Let's rename \*our-new-project\* to \*our-old-project\*.
+
+```
 
 
 
