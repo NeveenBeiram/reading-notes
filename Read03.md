@@ -429,8 +429,9 @@ correct usage of the `<a>` element in earlier versions of HTML.
 Older browsers that do not
 know the new HTML5 elements
 will automatically treat them as inline elements. Therefore, to help older browsers, you should include the line of CSS on the left which states which new elements should be rendered as block-level elements.
-{Header,section,footer,aside,nav,article,figure{display: block;}
+{Header,section,footer,aside,nav,article,figure;display: block;}
 
+***
 
  # Chapter 8- Extra markup
 
