@@ -60,13 +60,8 @@ require "Section links :"(not working!!)
 * [   ] finish my changes 
 * [x] push my commits to github 
 * [ ] open a pull request
-***
 
-@github/support What do you think about these updates? (doesn't work!!)
 
-referncing isuues !!(not work)
-
-@octocat :+1: This PR looks great - it's ready to merge! :shipit:(not working)
 
 
 

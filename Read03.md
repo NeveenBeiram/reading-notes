@@ -4,7 +4,7 @@
 
  It looks at who might be visiting your site and how to ensure the pages feature the information those visitors need.
 
- ### it is important to look at:
+ ***it is important to look at:***
 1. How to understand the audience your site  may attract and
 what information they will expect to find on it.
 3. How to organize information so that visitors can find what
@@ -247,7 +247,8 @@ Tags act like containers
 They tell you about the information that lies between their opening and closing tags 
 
 
-![image](https://lh3.googleusercontent.com/proxy/YkJ69J-Xiyerb8g51U6Y-IDBYCKCfojDV2_X0u3YqY8a52kp4J3cgBgXkbz29kDIvJDHq0Zrj72GuoYJB5C74UWrR6hxmnHY3y5I)
+
+
 
 
 

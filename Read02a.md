@@ -14,23 +14,30 @@ and creating lists
   ![image](https://d33v4339jhl8k0.cloudfront.net/docs/assets/545804d8e4b09c5ca72525ce/images/5bfffa1304286304a71cca67/file-HkUrvqZYBI.png)
 
   ## headers
+
   ![image](https://www.qoncious.com/sites/default/files/q_a_images/ghost_markdown_heading.PNG)
 
   Lists
 
 Unordered and Ordered
+
 ![image](https://i.stack.imgur.com/JSbJ3.png)
 
 Images
+
 ![image](https://i2.wp.com/corelab.blog/wp-content/uploads/2020/04/Schermata-2020-04-15-alle-16.53.59.png?resize=383%2C172&ssl=1)
 
+
 links 
+
 ![image](https://1.bp.blogspot.com/-N4e_emEN-nI/W8POCzp8UlI/AAAAAAAAxrI/OvLag5aWsaMV2jfFEaP3o5lRv_xNGgPIQCLcBGAs/s1600/Markdown-sample-codes.png)
 
 Blockquotes
+
 ![image](https://i.redd.it/dhv15fftnd131.jpg)
 
 Inline code
+
 I think you should use an
 `<addr>` element here instead.
 
@@ -107,7 +114,7 @@ you can create an inline link by wrapping link text in brackets [ ], and then wr
 
 Section links:
 
-[Headings](##Headings:)
+[Headings](##Heading)
 
 
 
@@ -170,10 +177,6 @@ To create a task list, preface list items with a regular space character followe
 Mentioning people and teams:
 You can mention a person or team on GitHub by typing @ plus their username or team name. 
 ***
-Using emoji:
-
-
-:mask:
 
 
 Paragraphs:
@@ -182,7 +185,7 @@ You can create a new paragraph by leaving a blank line between lines of text.
 Ignoring Markdown formatting
 You can tell GitHub to ignore (or escape) Markdown formatting by using \ before the Markdown character.
 
-Let's rename \*our-new-project\* to \*our-old-project\*.
+`Let's rename \*our-new-project\* to \*our-old-project\*.`
 
 
 

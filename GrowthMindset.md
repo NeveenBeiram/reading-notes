@@ -6,16 +6,16 @@
 
 
 
- |                  | Growth                     | Fixed                                 | 
- | ---              | -----                      |-----                                  |
- |  CHALLENGES      |Embraces                    |   Avoids                              |
- |   OBSTACLES      |persists                    |     Loses focus                       |
- |   EFFORT         |No pain,no gain             |   Views as fruitless                  |
- |  CRITICISM       |Learns from                 |     Ignores                           |
- | SUCCESS OF OTHERS|Is inspired by              |     View as threat                    |
- | Result           |Acheives more & Higher goals|  Fails to reach full potential        |
-
  
 
 
 
+
+|                 | Growth                          |Fixed                        |   
+|---              |---                              |---                          |
+|  CHALLENGES     |Embraces                         |Avoids                       |  
+|  OBSTACLES      |persists                         |Loses focus                  |   
+|   EFFORT        |No pain,no gain                  |Views as fruitless           |  
+|  CRITICISM      |Learns from                      |Ignores                      |
+|SUCCESS OF OTHERS|Is inspired by                   |View as threat               |
+|    Result       |Acheives more & Higher goals     |Fails to reach full potential|
