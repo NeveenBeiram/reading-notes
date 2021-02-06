@@ -16,11 +16,11 @@ you must to do your best in development your self and doing much and much effort
 
 
 ****
- [Growth Mindset](Growth-Mindset.md)
+ [Growth Mindset](GrowthMindset.md)
 
-[Markdown on GitHub](Markdown-on-GitHub.md)
+[Markdown on GitHub](MarkdownonGitHub.md)
 
-[Getting Started with GitHub Pages](Getting-Started-with-GitHub-Pages.md)
+[Getting Started with GitHub Pages](GettingStartedwithGitHubPages.md)
 
 
 ****
