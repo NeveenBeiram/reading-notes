@@ -7,6 +7,7 @@ You can evaluate a situation by comparing one value in the script to what you ex
 **The result** will be Boolean :
 * True 
 * False 
+***
 
 * 	`== `  is equal to 
 
