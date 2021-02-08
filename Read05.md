@@ -13,6 +13,7 @@ You can evaluate a situation by comparing one value in the script to what you ex
 To compares two values (numbers,string ,or booleans)to see if they are the same
 
  2. `!=` is not equal to 
+
            To compare two values to see if they are the same 
 
 5. `===` strict equal to 
@@ -135,7 +136,7 @@ Document.getElementById(`answer`).innerHTML = msg;
 Here is a while loop. It write out the **5 times table**.each time the loop is run, another calculation is written into the variable called msg.
 
 
-***This loop will continue to run*** for as **long** as the condition in the parentheses is true. That condition is a counter indicating that, as long as the variable ` i` remains less than 10, the statements in the subsequent code block should run.Inside the code block 
+***This loop will continue to run*** for as **long** as the condition in the parentheses is true. That condition is a counter indicating that, as long as the variable `i` remains less than 10, the statements in the subsequent code block should run.Inside the code block 
 
 ## there are two statements:
 The first statement uses the `+=` operator, which is used to add new content to the msg variable.Each time the loop runs, a new
@@ -152,7 +153,7 @@ of code, which writes the msg variable to the page.
 ```
 1 * 5= 5
 2 x 5 = 10
-3 x 5 = 15.
+3 x 5 = 15
 4 x 5 = 20
 5 x 5 = 25
 6 x 5 = 30
