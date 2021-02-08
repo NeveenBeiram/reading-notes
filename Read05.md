@@ -8,19 +8,19 @@ You can evaluate a situation by comparing one value in the script to what you ex
 * True 
 * False 
 
-1.	`== `  is equal to 
+* 	`== `  is equal to 
 
 To compares two values (numbers,string ,or booleans)to see if they are the same
 
- 2. `!=` is not equal to 
+ *  `!=` is not equal to 
 
-           To compare two values to see if they are the same 
+To compare two values to see if they are the same 
 
-5. `===` strict equal to 
+*  `===` strict equal to 
 
 Compare two values to check that both the data type and value are the same 
 
-9. `!==` strict not equal to
+*  `!==` strict not equal to
 
 Compare two values to check that both data type and value are not the same 
 
