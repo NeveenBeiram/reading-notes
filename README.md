@@ -20,6 +20,7 @@ I am Neveen Beiram , I studied software engineering at Hashemite university , I 
 
 * [Read: 04 - Programming with JavaScript](Read04.md)
 
+* [Read: 05 - Operators and Loops](Read05.md)
 
 
 
