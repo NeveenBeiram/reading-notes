@@ -22,7 +22,7 @@ I am Neveen Beiram , I studied software engineering at Hashemite university , I 
 
 * [Read: 05 - Operators and Loops](Read05.md)
 
-
+* [Read: 06a - Functions](Read06a.md)
 
 ***
 [gitHub](https://github.com/NeveenBeiram)
