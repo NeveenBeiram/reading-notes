@@ -7,6 +7,7 @@ I am Neveen Beiram , I studied software engineering at Hashemite university , I 
 
 ## Table of Contents :
 
+# Code 102 Reading Notes
 
 * [Lab: 02b - Revisions and the Cloud (we are in it)](README.md) 
 
@@ -25,6 +26,42 @@ I am Neveen Beiram , I studied software engineering at Hashemite university , I 
 * [Read: 06a - Functions](Read06a.md)
 
 * [Read: 06b - Design web pages with CSS](Read06b.md)
+
+# Code 201 Reading Notes
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+*
+
+
+
+
 
 ***
 [gitHub](https://github.com/NeveenBeiram)
