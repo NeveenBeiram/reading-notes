@@ -15,12 +15,13 @@ there is 6 level of headings started from `<h1>` for the main heading to `<h6>`f
 
  and the browser will show each paragraph on a new line with some space between it by default.
 
- ## Bold & iTalic :
- bold:
+ ## Bold & iTalic:
+
+ * bold:
 
  `<p>This is how we make a word appear<b>bold.</b></p>`
 
-italic:
+* italic:
 
  `<p>This is how we make a word appear <i>italic</i>.</p>`
 
@@ -134,6 +135,7 @@ which usually sits inside the
 ```
 
 # js book 
+
 ## ch2 
 
 A script is a series of instructions that a computer can follow one-by-one.
@@ -141,11 +143,13 @@ Each individual instruction or step is known as a statement.
 Statements should end with a semicolon.
 
 ## comments :
+
 You should write comments to explain what your code does.
 They help make your code easier to read and understand.
 This can help you and others who read your code.
 
 This is an example from the book : 
+
 ```
 /*This script displays a greeting to the user based upon the current time.
 It is an example from JavaScript & jQuery book */
@@ -176,57 +180,86 @@ document.write(greeting) ;
  c
  */
  ```
+
  * single-line comment
 
  `//this is a comment`
 
  ## what is a variable?
+
  to store data in variable
+
  ```
  var width= 5;
  var height= 5;
  var Area = width * height;
  ```
+
  ## data types:
+
  * numeric 
+
  * string
+
  * boolean
+
 ## array 
+
 An array is a special type of variable. It doesn't
 just store one value; it stores a list of values.
 
 this exapmle from the book : 
+
 ```
 var colors;
 colors ['white', 'black', ' custom'];
 var el document.getElementByld('col ors');
 el.textContent = col ors[O]; 
 ```
+
 ## VALUES IN ARRAYS
 Values in an array are accessed as if they are in a numbered list. It is important to know that the numbering of this list starts at zero (not one). 
 
 ## accessing and changing values
+
 `colors[2] ='red';`
 
 ## Expressions
-1. ASSIGN A
+
+* ASSIGN A
 VALUE TO A VARIABLE
+
 `var color='red;` 
-10. USE TWO OR
+
+* USE TWO OR
 MORE VALUES TO RETURN A
 SINGLE VALUE  
+
 `var area=5*6;`
+
 ## operators 
+
 1. ASSIGNMENT OPERATORS    
+
 `var color='red';`
+
 5. ARITHMETIC OPERATORS  
+
 `var area=3*5;`
+
 63. STRING OPERATORS  
+
 `fullName='Neveen'+'Beiram';`
+
 8. COMPARISON OPERATORS  
+
 `b= 6<2;`
+
 5. LOGICAL OPERATORS  
+
 `b=(5>3)&&(2<5);`
+
+****
 
 # ch4 
 ## evaluating condition and conditional statements
@@ -237,7 +270,10 @@ there are two components to a decision :
 
 53. conditional statement says what to do in a given situation 
 
+
+
 ## comparsion operators:evaluating condition 
+
 `==` is equal to 
 
 `!=`is not equal to
@@ -249,26 +285,39 @@ there are two components to a decision :
 `>`grater than
 
 `<`less than
+
 `>=`greater than or equal to
 
 `<=`less than or equal to
 
 ## structuring comparison operators :
+
 `(score>= pass)`
+
 ## using expression with comparison operators:
+
 `((score1 + score2)>(highsc1+highsc2)) `
+
 ## logical operator 
+
 `((5>2)&&(3<8))`
 ## if statement
+
 ```
 if(score>=50){
 result= 'pass';
 }
 ```
+
+
 ## if else statement 
+
+
 ```
 if (score>=50){result='pass';}else{result=fail;}
 ```
+
+
 *********
 
 # How to Write a Git Commit Message 
