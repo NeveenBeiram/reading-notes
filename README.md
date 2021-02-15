@@ -29,36 +29,25 @@ I am Neveen Beiram , I studied software engineering at Hashemite university , I 
 
 # Code 201 Reading Notes
 
-* [Read: 01 - Introductory HTML and JavaScript](class-01.md)
 
-* [Read: 02 - HTML Text, CSS Introduction, and Basic JavaScript Instructions](class-02.md)
 
-*
-
-*
-
-*
-
-*
-
-*
-
-*
-
-*
-
-*
-
-*
-
-*
-
-*
-
-*
-
-*
-
+|         |                                                             |
+|---      |---                                                          |
+| read 01 |[Introductory HTML and JavaScript](class-01.md)              |
+| read 02 |[HTML Text, CSS Introduction, and Basic JavaScript Instructions](class-02.md)|
+| read 03 |[HTML Lists, CSS Boxes, JS Control Flow](class-03.md)                                                |
+| read 04 |                                                 |
+| read 05 |                                                 |
+| read 06 |                                                 |
+| read 07 |                                                 |
+| read 08 |                                                 |
+| read 09 |                                                 |
+| read 10 |                                                 |
+| read 11 |                                                 |
+| read 12 |                                                 |
+| read 13 |                                                 | 
+| read 14 |                                                 |
+| read 15 |                                                 |
 *****
 
 [gitHub](https://github.com/NeveenBeiram)
