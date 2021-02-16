@@ -9,8 +9,7 @@ liks **allow** you to move from one web page to another .
 * linking to other sites 
 
  ```
-<a href="http://www.google.com">google</a>
- 
+ <a href="http:/www.google.com">google</a>
  ```
 
  when user click on google to open the link .
@@ -33,8 +32,9 @@ for example the nav bar in most of web sites
 
 example: 
 
+
 ```
-<a href="mailto:neveenbeiram@yahoo.com">email neveen</a>
+<a href="mailto:neveenbeiram@ yahoo.com">email neveen</a>
 ```
 
 * opening links in a new window :
@@ -42,7 +42,7 @@ example:
 `target` 
 
 ```
-<a href="http://www.google.com" target="_blank">google</a>
+<a href="http:/www.google.com" target="_blank">google</a>
 ```
 
 *  linking to specific part of the same page : 
