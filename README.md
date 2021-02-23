@@ -40,7 +40,7 @@ I am Neveen Beiram , I studied software engineering at Hashemite university , I 
 | read 05 |[HTML Images; CSS Color & Text](class-05)                                    |
 | read 06 |[JS Object Literals; The DOM](class-06.md)                                   |
 | read 07 |[HTML Tables; JS Constructor Functions](class-07.md)                         |
-| read 08 |                                                                             |
+| read 08 |[More CSS Layout](class-08.md)                                               |
 | read 09 |                                                                             |
 | read 10 |                                                                             |
 | read 11 |                                                                             |
