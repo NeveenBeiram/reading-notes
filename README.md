@@ -43,7 +43,7 @@ I am Neveen Beiram , I studied software engineering at Hashemite university , I 
 | read 08 |[More CSS Layout](class-08.md)                                               |
 | read 09 |[Forms and Events](class-09.md)                                                                             |
 | read 10 |[JS Debugging](class-10.md)                                                                             |
-| read 11 |                                                                             |
+| read 11 |[ Assorted Topics](class-11.md)                                                                             |
 | read 12 |                                                                             |
 | read 13 |                                                                             | 
 | read 14 |                                                                             |
