@@ -41,10 +41,10 @@ I am Neveen Beiram , I studied software engineering at Hashemite university , I 
 | read 06 |[JS Object Literals; The DOM](class-06.md)                                   |
 | read 07 |[HTML Tables; JS Constructor Functions](class-07.md)                         |
 | read 08 |[More CSS Layout](class-08.md)                                               |
-| read 09 |[Forms and Events](class-09.md)                                                                             |
-| read 10 |[JS Debugging](class-10.md)                                                                             |
-| read 11 |[Assorted Topics](class-11.md)                                       |
-| read 12 |[Docs for the HTML <canvas> Element & Chart.js](class-12.md)                                      |
+| read 09 |[Forms and Events](class-09.md)                                              |
+| read 10 |[JS Debugging](class-10.md)                                                  |
+| read 11 |[Assorted Topics](class-11.md)                                               |
+| read 12 |[Docs for the HTML `<canvas>` Element & Chart.js](class-12.md)               |
 | read 13 |                                                                             | 
 | read 14 |                                                                             |
 | read 15 |                                                                             |
