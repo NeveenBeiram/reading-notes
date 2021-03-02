@@ -45,7 +45,7 @@ I am Neveen Beiram , I studied software engineering at Hashemite university , I 
 | read 10 |[JS Debugging](class-10.md)                                                  |
 | read 11 |[Assorted Topics](class-11.md)                                               |
 | read 12 |[Docs for the HTML `<canvas>` Element & `Chart.js`](class-12.md)             |
-| read 13 |                                                                             | 
+| read 13 |[Local Storage](class-13.md)                                                 | 
 | read 14 |                                                                             |
 | read 15 |                                                                             |
 
