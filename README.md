@@ -59,7 +59,7 @@ I am Neveen Beiram , I studied software engineering at Hashemite university , I 
 | read 04 |[Responsive Web Design and Regular Expressions](301read04.md)                   |
 | read 05 |[Heroku Deployment](301read05.md)                                    |
 | read 06 |[Node, Express, and APIs](301read06.md)                                   |
-| read 07 |                         |
+| read 07 |[APIs continued](301read07.md)                         |
 | read 08 |                                              |
 | read 09 |                                             |
 | read 10 |                                                |
