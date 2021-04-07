@@ -62,7 +62,7 @@ I am Neveen Beiram , I studied software engineering at Hashemite university , I 
 | read 07 |[APIs continued](301read07.md)                         |
 | read 08 |[SQL](301read08.md)                                              |
 | read 09 |[Refactoring](301read09.md)                                             |
-| read 10 |                                                |
+| read 10 |[The Call Stack and Debugging](301read10.md)                                                |
 | read 11 |                                             |
 | read 12 |          |
 | read 13 |                                             | 
