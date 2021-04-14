@@ -66,7 +66,7 @@ I am Neveen Beiram , I studied software engineering at Hashemite university , I 
 | read 11 |[EJS](301read11.md)                                                          |
 | read 12 |[Components](301read12.md)                                                   |
 | read 13 |[Update/Delete](301read13.md)                                                | 
-| read 14a|                 |
+| read 14a|[DB Normalization](301read14a.md)                 |
 | read 14b|                             |
 | read 15 |                  |
 
