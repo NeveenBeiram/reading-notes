@@ -68,7 +68,7 @@ I am Neveen Beiram , I studied software engineering at Hashemite university , I 
 | read 13 |[Update/Delete](301read13.md)                                                | 
 | read 14a|[DB Normalization](301read14a.md)                 |
 | read 14b|                             |
-| read 15 |                  |
+| read 15 |[Diversity and Inclusion](301read15.md)                |
 
 
 ## Code 401 - Advanced Software Development
