@@ -65,7 +65,9 @@ Because of its flexibility.. it can handle multiple types of calls and data form
 
 ### important links
 [sql vs nosql video](https://www.youtube.com/watch?v=ZS_kXvOeQ5Y)
+
 [nosql vs sql](https://www.thegeekstuff.com/2014/01/sql-vs-nosql-db/?utm_source=tuicool)
+
 [nosql modeling techniques](https://highlyscalable.wordpress.com/2012/03/01/nosql-data-modeling-techniques/)
 
 [mongoose api](https://mongoosejs.com/docs/api.html#Model)
