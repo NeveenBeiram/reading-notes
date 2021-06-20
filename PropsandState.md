@@ -13,14 +13,18 @@ When you're ready to deploy to production, running npm run build will create an 
 * Describe the actual composition / architecture of a React application
 The key feature of React is composition of components. Components written by different people should work well together. It is important to us that you can add functionality to a component without causing rippling changes throughout the codebase.
 
+*** 
+
 ## Term
 * BDD:Behavior Driven Development.
 * Acceptance Tests:testing technique performed to determine whether or not the software system has met the requirement specifications.
 * mounting:In react, it is the process of outputting the virtual representation of a component into the final UI representation
 * build:create a production build of your app in the build/ folder of your project.
 
+***
 
 ### Preparation Materials
+
 ***setState***
 Update to a component state should be done using `setState()`
 You can pass an object or a function to setState().
@@ -34,7 +38,9 @@ you must call preventDefault explicitly
 ***forms***
 HTML form elements work a little bit differently from other DOM elements in React, because form elements naturally keep some internal state
 In HTML, form elements such as input, textarea, and select typically maintain their own state and update it based on user input
-In React, mutable state is typically kept in the state property of components, and only updated with setState()
+In React, mutable state is typically kept in the state property of components, and only updated with setState().
+
+
 ***
 
 [setState explained](https://css-tricks.com/understanding-react-setstate/)
