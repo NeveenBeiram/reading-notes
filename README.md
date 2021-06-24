@@ -99,6 +99,7 @@ I am Neveen Beiram , I studied software engineering at Hashemite university , I 
 | read 27 |[Props and State](PropsandState.md)                      |
 | read 28 |[Component Composition](ComponentComposition.md)         |
 | read 29 |[Routing](Routing.md)                                    |
+| read 30 |[Hash Tables](HashTables.md)                             |
 
 *****
 
