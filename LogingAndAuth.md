@@ -12,7 +12,7 @@ No.
 
 - Describe “Context Hell”
 many nested contexts.
-
+***
 ## Term
 - global state: State that all component can use it.
 
@@ -23,7 +23,7 @@ many nested contexts.
 - consumer:A React component that subscribes to context changes. Using this component lets you subscribe to a context within a function component.
 
 Requires a function as a child. The function receives the current context value and returns a React node. The value argument passed to the function will be equal to the value prop of the closest Provider for this context above in the tree. If there is no Provider for this context above, the value argument will be equal to the defaultValue that was passed to createContext().
-
+***
 ### Preparation Materials
 Learn about role-based access control (RBAC): restricts network access based on a person's role within an organization and has become one of the main methods for advanced access control. The roles in RBAC refer to the levels of access that employees have to the network.
 
@@ -32,6 +32,7 @@ Learn about role-based access control (RBAC): restricts network access based on 
 - `$ npm install react-cookies --save`
 
 - Usage
+
 ```
 import { Component } from 'react'
 import cookie from 'react-cookies'
@@ -70,6 +71,7 @@ class MyApp extends Component {
     return <Dashboard userId={userId} />
   }
 }
+
 ```
 
 - `universal-cookie `- Universal cookies for JavaScript
@@ -98,6 +100,7 @@ On the server, the cookies props must be set using `req.universalCookies` or `ne
 
 
 - `useCookies([dependencies])`
+
 Access and modify cookies using React hooks.
 `const [cookies, setCookie, removeCookie] = useCookies(['cookie-name']);`
 
