@@ -110,7 +110,7 @@ I am Neveen Beiram , I studied software engineering at Hashemite university , I 
 | read 38 |[Redux - Asynchronous Actions](Redux-AsynchronousActions.md)|
 | read 39 |[ Redux - Additional Topics](Redux-AdditionalTopics.md)|
 | read 41 |[React Native](ReactNative.md)|
-
+| read 42 |[Ethics](Ethics.md)|
 
 
 
